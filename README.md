@@ -39,4 +39,8 @@ No central authority is required to validate certificates.
 3. Hash stored on Algorand blockchain
 4. Re-upload certificate to verify authenticity
 
+First working blockchain anchor transaction:
+TXID: GLHJHLWTVTRXGMFIMW7NQS357KH2CET6JWFQPYNBMXW7SGUUDLLA
+Network: Algorand TestNet
+
 
